@@ -1,16 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
  
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url("img/IMG-20230108-WA0052.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url("https://telegra.ph/file/2677c6ca6d9b2a372d009.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Montserrat', sans-serif;
-  overflow: hidden;
 }
  
 .kotak{
