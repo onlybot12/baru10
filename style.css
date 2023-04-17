@@ -115,6 +115,39 @@ body {
     border: 2px solid #2ed8b6
 
   }
+		table {
+
+			margin: auto;
+
+			font-family: "Lucida Sans Unicode", "Lucida Grande", "Segoe Ui";
+
+			font-size: 12px;
+
+      color:white;
+
+		}
+
+		.demo-table {
+
+			border-collapse: collapse;
+
+			font-size: 13px;
+
+		}
+
+		.demo-table th, 
+
+		.demo-table td {
+
+			border-bottom: 1px solid #e1edff;
+
+			border-left: 1px solid #e1edff;
+
+			padding: 7px 17px;
+
+		}
+
+</style>
 
 
 
